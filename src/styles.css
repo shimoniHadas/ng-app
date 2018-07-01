@@ -1,1 +1,28 @@
 /* You can add global styles to this file, and also import other style files */
+*{
+    box-sizing: border-box; 
+}
+
+app-header{
+    background-color: #31a14d;
+    width: 100%;
+}
+
+app-aside{
+    float: left;
+    width: 20%;
+    background-color: #005800;
+}
+
+app-footer{
+    background-color: #580000;
+}
+app-center{
+    float: left;
+    width: 80%;
+    background-color: #992167;
+
+
+}
+
+
